@@ -8,58 +8,46 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🏛 **Software Engineer** specializing in **Full-Stack & DevOps** at **Ankara Metropolitan Municipality**.
-- 🎓 Graduated with a **B.S. in Software Engineering** from **Kırklareli University** (Ranked **2nd** in Department, **3rd** in Faculty of Engineering — **3.74/4.00 GPA**).
-- ⚙️ Focused on **Clean Architecture**, High-Performance RESTful APIs, Containerized Microservices, and Cloud-Native deployments.
-- 🗺 Strong background in **Geographic Information Systems (GIS)**, spatial queries, and interactive mapping tools (PostGIS, OpenLayers).
-- ⛓ Experience in **Web3 & Blockchain** (Ethereum smart contracts, Solidity, IPFS) and Applied **AI/NLP**.
+## 👨‍💻 About Me
+
+I am a **Software Engineer** specializing in **Full-Stack Development, DevOps, Geographic Information Systems (GIS), and Distributed Systems**. I combine strong academic rigor with extensive hands-on engineering experience across enterprise municipal backbones, spatial data platforms, and decentralized architectures.
+
+- 🏛 **Current Role:** Software Engineer (Full-Stack & DevOps) at **Ankara Metropolitan Municipality (ABB) - Department of Information Technology**. Leading the architecture and development of enterprise public web platforms, internal municipal automations, and containerized CI/CD microservice deployments.
+- 🎓 **Academic Honors:** 
+  - Graduated with a **B.S. in Software Engineering** from **Kırklareli University** with a **3.74 / 4.00 GPA**.
+  - **Ranked 2nd** in the Department of Software Engineering (Salutatorian).
+  - **Ranked 3rd** in the Faculty of Engineering.
+  - High School **Valedictorian (Ranked 1st)** at Nurettin Karaoğuz Vakfı Anatolian High School.
+- 🔬 **R&D & Engineering Background:**
+  - **TÜBİTAK BİLGEM:** Researched and developed secure, gas-optimized Ethereum smart contracts in Solidity coupled with decentralized IPFS data verification pipelines.
+  - **Başarsoft IT:** Developed core GIS tools using OpenLayers, PostGIS, NetTopologySuite, and C# / ASP.NET Core for spatial geometry calculations (Point, LineString, Polygon), dynamic route planning, and geocoding services.
+  - **Kırklareli University:** Built official administrative web automations and high-traffic portal backend layers.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🚀 Featured Engineering Projects
 
-**Languages & Core:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend & Architecture:**  
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend & Mobile:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**DevOps, GIS & Infrastructure:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat-square&logo=linux&logoColor=black)
+- 🌐 **[Personal Developer Showcase & Portfolio](https://dev-showcase-git-main-can-73b0.vercel.app/):** Modern interactive portfolio platform featuring dynamic CV presentation, live project showcases, and real-time visitor communication channels.
+- ☕ **[LuxeCafe Management & Order System](https://guvenle-al-lz8qkpsh7-can-73b0.vercel.app/):** End-to-end digital restaurant automation suite featuring real-time table floor plans, dynamic order/billing workflows, and inventory tracking (ASP.NET Core, React, TypeScript).
+- 🛒 **[Güvenle Al-Sat Marketplace](https://guvenle-al-sat-chi.vercel.app/):** Scalable C2C classifieds and marketplace application featuring faceted search, multi-attribute product filters, secure user profiles, and high-throughput relational data schemas (ASP.NET Core, React, PostgreSQL).
+- ⛓ **Decentralized Academic Credential Verification:** Tamper-proof academic diploma registry built on Ethereum smart contracts (Solidity) and IPFS decentralized storage to eliminate document forgery.
+- 🤖 **AI-Powered Medical Diagnostic & Semantic Search Systems:** Hybrid domain-specific retrieval search using fine-tuned BERT and T5 models paired with deep learning CNN architectures for medical image anomaly detection.
+- ☁️ **DentalCloud:** Cloud-native clinic management system with appointment scheduling, patient tracking, and billing backed by serverless PostgreSQL (Neon DB).
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🛠 Technical Proficiencies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamzacan2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzacan2003&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
+- **Programming Languages:** C#, Python, Java, TypeScript, JavaScript, Kotlin, SQL, C/C++, PHP
+- **Backend & Architecture:** .NET / ASP.NET Core Web API, Clean / N-Tier Architecture, Entity Framework Core, RESTful APIs, MVC, Microservices
+- **Frontend & Mobile:** React, Angular, Next.js, Tailwind CSS, HTML5/CSS3, Native Android (Kotlin/Java)
+- **DevOps, Cloud & Database:** Docker, CI/CD Pipelines, PostgreSQL, PostGIS, Neon Serverless DB, MySQL, MS SQL Server, MinIO Object Storage, Linux / WSL
+- **Geographic Information Systems (GIS):** OpenLayers, Leaflet, NetTopologySuite, WKT, GeoJSON, Spatial Data Analysis & Geocoding
+- **AI & Web3:** Deep Learning (CNN, RNN), NLP (BERT, T5, LLMs), OpenCV, Solidity, Ethereum, IPFS
+- **Tools & Workflow:** Git, GitHub, Postman, Visual Studio, VS Code, Unity, Agile / Scrum
 
 ---
 
 <p align="center">
-  <i>"Writing clean, maintainable code and building scalable architectures."</i>
+  <i>"Passionate about architecting clean, scalable systems and solving complex engineering challenges."</i>
 </p>
