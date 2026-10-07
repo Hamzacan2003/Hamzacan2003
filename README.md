@@ -68,6 +68,7 @@ Kırklareli Üniversitesi Yazılım Mühendisliği bölümünü **3.74 / 4.00 GA
 ### 🚀 Öne Çıkan Projeler
 
 - 🌐 **[Kişisel Portfolyo & Vitrin Platformu](https://dev-showcase-git-main-can-73b0.vercel.app/):** İnteraktif özgeçmiş akışı, canlı proje vitrini ve doğrudan soru-cevap/iletişim modülü barındıran modern geliştirici vitrini.
+- 🏥 E-Klinik — Canlı Randevu & Tıp Merkezi Otomasyonu: NVI (MERNİS) kimlik doğrulamalı online randevu sihirbazı, SignalR ile anlık bildirim alan doktor paneli, çok kalemli kasa/tahsilat yönetimi ve röntgen/tahlil arşivi barındıran tam teşekküllü tıp merkezi sistemi (ASP.NET Core Web API, React, SignalR, PostgreSQL, Docker, Render & Vercel)[cite: 4].
 - ☕ **[LuxeCafe — Kafe Sipariş ve Yönetim Otomasyonu](https://guvenle-al-lz8qkpsh7-can-73b0.vercel.app/):** Kafe ve restoranlar için anlık masa takibi, dinamik adisyon/sipariş yönetimi, menü ve stok denetimini sağlayan full-stack sistem (.NET Core, React, TypeScript, Docker).
 - 🛒 **[Güvenle Al-Sat — İkinci El İlan & Pazar Yeri Platformu](https://guvenle-al-sat-chi.vercel.app/):** Kategori filtreleme, detaylı arama, kullanıcı paneli ve güvenli işlem modüllerine sahip C2C pazar yeri mimarisi (ASP.NET Core, React, PostgreSQL).
 - ⛓ **Merkeziyetsiz Akademik Diploma Doğrulama Sistemi:** Sahteciliği önlemek adına Ethereum akıllı kontratları ve IPFS merkeziyetsiz depolama mimarisiyle geliştirilmiş doğrulama sistemi (Solidity, Node.js).
